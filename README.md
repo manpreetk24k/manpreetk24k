@@ -48,9 +48,7 @@
 - 📰 [**Fake News Detection**](https://github.com/manpreetk24k/Fake-News-Detection): Fake news classifier using basic algorithms (not NLP-based) on a political news dataset.
 - 🕵️ [**ShadowSweep**](https://github.com/manpreetk24k/ShadowSweep): Cybersecurity project for detecting and analyzing suspicious activity.
 
-> 👉 Check out my repos for more cool projects!
 
----
 
 ## 🏆 Achievements & Programs
 
