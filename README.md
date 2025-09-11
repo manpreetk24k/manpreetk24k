@@ -1,4 +1,3 @@
-<!-- Hi there, I'm Manpreet Kaur! 👋 -->
 <h1 align="center">🌟 Hi, I'm Manpreet Kaur! 👩‍💻</h1>
 
 <p align="center">
@@ -47,8 +46,9 @@
 - 🧘‍♀️ [**Yoga Pose Estimation**](https://github.com/manpreetk24k/yoga-pose-estimation): Deep learning project for real-time yoga pose detection and feedback.
 - 📰 [**Fake News Detection**](https://github.com/manpreetk24k/Fake-News-Detection): Fake news classifier using basic algorithms (not NLP-based) on a political news dataset.
 - 🕵️ [**ShadowSweep**](https://github.com/manpreetk24k/ShadowSweep): Cybersecurity project for detecting and analyzing suspicious activity.
+- 🤖 **Verida AI**: An AI-powered project built using the Gemini API.
 
-
+---
 
 ## 🏆 Achievements & Programs
 
